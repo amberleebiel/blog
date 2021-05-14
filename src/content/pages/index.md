@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Amber Biela-Weyenberg
+tagline: "Storyteller l Marketer with a Purpose l Community Builder "
+featuredImage: /assets/amberbiela-15.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn More
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+She is a content creator and writer.
