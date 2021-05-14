@@ -8,4 +8,4 @@ cta:
   ctaText: Learn More
   ctaLink: /about
 ---
-She is a content creator and writer.
+Writer
