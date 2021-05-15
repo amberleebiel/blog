@@ -1,6 +1,6 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Let's Connect
 ---
-Test.
+Have feedback? I'd love to hear it. 😊
