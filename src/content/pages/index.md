@@ -8,4 +8,4 @@ cta:
   ctaText: Learn More
   ctaLink: /about
 ---
-Writer
+Amber is a communication, social media, and marketing professional with a passion for writing, dogs, lifting others, and personal growth.
