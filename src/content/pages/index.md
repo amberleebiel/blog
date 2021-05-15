@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Amber Biela-Weyenberg
 tagline: "Storyteller | Marketer with a Purpose | Community Builder "
-featuredImage: /assets/blog-test-3-.png
+featuredImage: /assets/blog.png
 cta:
   ctaText: Learn More
   ctaLink: /about
