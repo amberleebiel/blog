@@ -10,6 +10,12 @@ featuredImage: /assets/packers-softball-game.jpg
 ---
 <!--StartFragment-->
 
+<link rel=“canonical” href=“https://www.amberswords.com” />
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 1.) **You are more than your job.** We, as Americans, tend to overwork ourselves and often feel a sense of pride because of it. *I'm guilty, but working on it.* Early in my career, I never used all of my vacation days. I went to work sick, which seems crazy to think about during a pandemic. In my mind, I thought I was making myself more valuable to the company, but really, I was only burning myself out.
 
 Americans also tend to define themselves by their careers. *Guilty again.* Years ago, during my time in radio broadcasting, my position was eliminated after my station flipped to a jockless format. I was fortunate when the company offered me a promotion if I moved to an undesirable city across the country, but it wasn't for me. I turned them down and was let go soon after. Eventually, my bruised ego and I found the right path.
