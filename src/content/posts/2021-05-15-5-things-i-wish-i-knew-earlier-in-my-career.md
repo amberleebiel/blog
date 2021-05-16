@@ -24,7 +24,7 @@ It took me some time to realize that your job is only a part of you. You have fa
 
 <!--EndFragment-->
 
-!["Love yourself and everything else falls in line. You really have to love yourself to get anything done in this world." Quote by Lucille Ball.](/assets/lucy.png "Quote by Lucille Ball.")
+!["Love yourself and everything else falls in line. You really have to love yourself to get anything done in this world." Quote by Lucille Ball.](/assets/lucy.png)
 
 <!--StartFragment-->
 
@@ -36,7 +36,7 @@ Truthfully, a small part of me still feels like a failure a few times a week bec
 
 <!--EndFragment-->
 
-!["As soon as you trust yourself, you will know how to live." Quote by Johann Wolfgang von Goethe.](/assets/wvg.png "Quote by Johann Wolfgang von Goethe.")
+!["As soon as you trust yourself, you will know how to live." Quote by Johann Wolfgang von Goethe.](/assets/wvg.png)
 
 <!--StartFragment-->
 
@@ -52,7 +52,7 @@ Already in your position and underpaid? Politely make your case to your boss and
 
 <!--EndFragment-->
 
-!["Creativity is intelligence having fun." Quote by Albert Einstein.](/assets/ae.png "Quote by Albert Einstein.")
+!["Creativity is intelligence having fun." Quote by Albert Einstein.](/assets/ae.png)
 
 <!--StartFragment-->
 
