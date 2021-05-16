@@ -40,15 +40,13 @@ Truthfully, a small part of me still feels like a failure a few times a week bec
 
 Feeling underpaid breeds resentment. Worse, many studies, including ones cited in an article from *[The Globe and Mail](https://www.theglobeandmail.com/life/health-and-fitness/health-advisor/feeling-underpaid-there-are-health-consequences-to-that/article23541907/)*, link feeling underpaid and undervalued with anxiety, depression, more frequent headaches, stomach pains, etc. *No, thank you*.
 
-Instead, do your research and be prepared. Glassdoor's *[Know Your Worth](https://www.glassdoor.com/Salaries/know-your-worth.htm)* tool helps you get a feel for your worth in the current job market. [Monster](https://www.monster.com/salary), [PayScale.com](https://www.payscale.com/), [Salary.com](https://www.salary.com/), and many other sites offer the same free service. If you think you deserve more, counter.
+Instead, do your research and be prepared. Glassdoor's *[Know Your Worth](https://www.glassdoor.com/Salaries/know-your-worth.htm)* tool helps you get a feel for your worth in the current job market. [Monster](https://www.monster.com/salary), [PayScale.com](https://www.payscale.com/), [Salary.com](https://www.salary.com/), and many other sites offer the same free service. If you think you deserve more, counter.
 
 Already in your position and underpaid? Politely make your case to your boss and present your research. Justify your request.
 
 <!--EndFragment-->
 
 !["Creativity is intelligence having fun." Quote by Albert Einstein.](/assets/ae.png "Quote by Albert Einstein.")
-
-
 
 <!--StartFragment-->
 
