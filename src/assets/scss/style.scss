@@ -217,7 +217,7 @@
   }
 }
 article figure {
-  margin: 40px 0;
+  margin: 0;
   text-align: center;
   figcaption {
     font-size: var(--font-size-small);
@@ -240,7 +240,6 @@ article img {
 .blog-post-content {
   max-width: 70ch;
   margin: 0 auto;
-  padding: 20px;
   line-height: 1.5;
   font-size: 20px;
 }
@@ -296,7 +295,6 @@ article img {
 .contact-page,
 .thanks-page,
 .not-found-page {
-  padding: 50px 20px;
   .wrapper {
     max-width: 768px;
     margin: 0 auto;
