@@ -33,9 +33,11 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
+      quality: 100,
       resolve: `gatsby-transformer-remark`,
       options: {
         gfm: true,
+        quality: 100,
         plugins: [
           netlifyCmsPaths,
           {
@@ -99,8 +101,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Amber's Words`,
+        short_name: `Amber's Words`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
